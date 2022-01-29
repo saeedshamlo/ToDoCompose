@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoCompose</string>
+    <string name="delete_task">Remove \'%1$s\'?</string>
+    <string name="delete_task_confim">Are you sure you want to remove \'%1$s\'?</string>
+    <string name="delete_all_task">Remove All Tasks?</string>
+    <string name="delete_all_task_confim">Are you sure you want to remove All Tasks?</string>
+</resources>
